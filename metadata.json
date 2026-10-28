@@ -1,0 +1,8 @@
+{
+  "name": "Lost & Found Assistant",
+  "description": "AI-Powered Smart Item Matching System using semantic similarity, natural-language understanding, and contextual matching to connect lost and found items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
